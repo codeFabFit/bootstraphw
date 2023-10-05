@@ -1,0 +1,31 @@
+.main-container{
+    display: flex-grid;
+    padding: 20px;
+}
+
+.containerB {
+display: block;
+float: right;
+}
+
+#progress {
+    border: 15px 10px 5px 15px;
+    border:  2px solid bisque;
+    
+}
+
+#card-body {
+    align-content: center;
+}
+
+.containerB {
+    padding: 10px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.figure {
+    padding: 10px;
+}
